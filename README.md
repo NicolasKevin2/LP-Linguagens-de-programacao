@@ -1,2 +1,2 @@
-# LP-Linguagens-de-programacao
+# Exercícios e prática em aula
 LP
