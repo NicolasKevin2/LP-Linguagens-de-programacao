@@ -1,4 +1,7 @@
 Fiz uma atividade de linguagens de programação ,com um código em Java para simular uma loteria com 3 opções de sorteios selecionáveis.
+IDE Utilizada : Intellij
+https://www.jetbrains.com/pt-br/idea/
+
 REQUISITOS
 
 Versão Java utilizada : JDK 17
