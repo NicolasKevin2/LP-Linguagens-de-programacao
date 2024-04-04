@@ -17,9 +17,6 @@ public class LotofacilGUI extends JFrame{
 
     private JButton jButton1 = new JButton();
 
-
-
-
     // Construtor
     public LotofacilGUI(){
         this.setTitle("** Lotofácil - Interface Gráfica **");
@@ -87,7 +84,6 @@ public class LotofacilGUI extends JFrame{
             JOptionPane.showMessageDialog(null, "Letra inválida.");
         }
     }
-
     private static void aposta1() {
         ImageIcon icon = new ImageIcon("sorteio.png");
         Object numeroApostado = JOptionPane.showInputDialog
