@@ -8,7 +8,6 @@ public class Lotofacil {
     public static void main(String[] args) throws IOException{
         menu();
     }
-
     private static void menu() throws IOException{
         int opcao = -1;
         Scanner in = new Scanner(System.in);
